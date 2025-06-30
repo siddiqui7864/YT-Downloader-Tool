@@ -29,7 +29,7 @@ Built with Java Swing, bundled as an `.exe` with a clean GUI and no need for Jav
 ## 🚀 How to Use
 1. Install Java Development Kit (JDK) if not already installed. Download and install it from <a href = https://www.oracle.com/in/java/technologies/downloads/>here.</a>
 2. **Download the installer** from [Releases](#)
-3. Run `YouTubeDownloaderSetup.exe`
+3. Run `Setup.exe`
 4. Paste your YouTube video or playlist URL
 5. Click **Download Video** or **Download MP3**
 6. Sit back and enjoy 🎉
