@@ -1,0 +1,61 @@
+# === Java Build Files ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Log Files ===
+*.log
+
+# === OS / System Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Windows Shortcut / Shell Files ===
+*.lnk
+*.bat
+*.cmd
+
+# === Executables ===
+*.exe
+*.msi
+*.dll
+
+# === Archives & Installers ===
+*.zip
+*.7z
+*.tar.gz
+*.rar
+
+# === IDEs ===
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# === Java-specific tools ===
+jre/
+# or if you're bundling your own:
+# !jre/bin/java.exe
+
+# === Setup & Build Tools ===
+launch4j.log
+*.class
+
+# === yt-dlp / ffmpeg (if downloaded manually) ===
+yt-dlp.exe
+ffmpeg.exe
+
+# === Optional: exclude final output if you don't want to track it ===
+Setup.zip
+Setup.exe
+YouTubeDownloader.exe
+
+# === Maven / Gradle (if used in future) ===
+target/
+build/
+.gradle/
