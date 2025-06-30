@@ -1,0 +1,12 @@
+This application bundles the following third-party tools:
+
+yt-dlp - https://github.com/yt-dlp/yt-dlp
+License: MIT License
+
+ffmpeg - https://ffmpeg.org/
+License: LGPL/GPL 
+
+This GUI is independently developed by @ZELTAROX.
+YouTube Downloader is a free and open project for educational/personal use only.
+
+All copyrights and trademarks belong to their respective owners.
